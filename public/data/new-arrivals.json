@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "title": "Galaxy S22",
+      "author": "Samsung",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5288781/img_id8924591160223794172.png/orig",
+      "price": 1199,
+      "currency": "$",
+      "isbn13": 9781101911815,
+      "description": "Производительный и стильный смартфон не боится падений, одинаково хорош для игр и общения."
+    },
+
+    {
+      "title": "Galaxy Z Fold3 5G",
+      "author": "Samsung",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5221946/img_id4383340400975065049.png/orig",
+      "price": 1599,
+      "currency": "$",
+      "isbn13": 9780802130983,
+      "description": "Cамый большой имиджевый смартфон компании, который одним движением способен превращаться в полноценный планшет."
+    },
+
+    {
+      "title": "Galaxy Z Flip3 5G",
+      "author": "Samsung",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5231591/img_id756925365440192653.jpeg/orig",
+      "price": 1399,
+      "currency": "$",
+      "isbn13": 9780811223041,
+      "description": "Новое технологичное переосмысление раскладного телефона с набором улучшений"
+    },
+
+    {
+      "title": "Galaxy S21 FE 5G",
+      "author": "Samsung",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5228636/img_id8152008168094831917.png/orig",
+      "price": 799,
+      "currency": "$",
+      "isbn13": 9780300209570,
+      "description": "Флагманские функции серии Galaxy S21 по низкой цене."
+    }
+  ]
+}
